@@ -1,0 +1,8 @@
+modelscope
+transformers
+accelerate
+peft
+datasets
+unsloth
+bitsandbytes
+unsloth_zoo
